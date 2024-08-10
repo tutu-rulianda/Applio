@@ -9,6 +9,7 @@ tqdm
 wget
 
 # Audio processing
+pip==23.3.2
 faiss-cpu
 librosa
 pyworld
@@ -19,6 +20,7 @@ noisereduce
 audio_upscaler
 
 # Machine learning
+pip==23.3.2
 omegaconf
 fairseq
 numba
@@ -31,11 +33,13 @@ libf0
 torchfcpe
 
 # Visualization
+pip==23.3.2
 matplotlib
 tensorboard
 gradio
 
 # Miscellaneous
+pip==23.3.2
 certifi
 antlr4-python3-runtime
 ffmpy
