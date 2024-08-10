@@ -19,7 +19,7 @@ noisereduce
 audio_upscaler
 
 # Machine learning
-omegaconf==2.0.6
+omegaconf
 fairseq
 numba
 # torchaudio
