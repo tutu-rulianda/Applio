@@ -22,10 +22,10 @@ audio_upscaler
 omegaconf==2.0.6
 fairseq
 numba
-torchaudio
-torch
+# torchaudio
+# torch
 torchcrepe
-torchvision
+# torchvision
 einops 
 libf0 
 torchfcpe
