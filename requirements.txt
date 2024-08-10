@@ -1,5 +1,5 @@
 # General dependencies
-pip
+pip==23.0
 wheel
 PyYAML
 ffmpeg-python
